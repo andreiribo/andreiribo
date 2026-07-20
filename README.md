@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Andrei 👋
 
-<!--
-**andreiribo/andreiribo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation Test Engineer from Romania 🇷🇴
 
-Here are some ideas to get you started:
+I enjoy building modern test automation frameworks and full-stack web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Playwright
+- Cucumber
+- JavaScript / Node.js
+- Next.js
+- React
+- PostgreSQL
+- Supabase
+- Jenkins
+- Git
+- GitHub Actions
+
+## 📌 Featured Projects
+
+🏆 World Cup 2026 Prediction Pool
+
+⚙️ Test Automation Frameworks
+
+🤖 Telegram Event Bot
+
+## 🌱 Currently learning
+
+- AI-assisted Software Engineering
+- Advanced Playwright
+- Cloud & CI/CD
